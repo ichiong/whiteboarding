@@ -61,3 +61,21 @@ best([100])
 best([100, 0])
 0
 ```
+
+Implement the `best` function. When this is successful, all tests should pass.
+
+```
+Running some tests...
+
+✔ best([15, 10, 20, 22, 1, 9]) = 12
+✔ best([1, 2, 3, 4, 5]) = 4
+✔ best([2, 3, 10, 6, 4, 8, 1]) = 8
+✔ best([7, 9, 5, 6, 3, 2]) = 2
+✔ best([0, 100]) = 100
+✔ best([5,4 ,3, 2, 1]) = 0
+✔ best([100]) = 0
+✔ best([100, 0]) = 0
+✔ best([]) = 0
+
+All tests passed! Great job! :)
+```

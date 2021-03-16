@@ -56,4 +56,20 @@ class Node(object):   # ...
         """
 ```
 
-Implement the count_employees method. When this is successful, all tests should pass.
+Implement the `count_employees` method. When this is successful, all tests should pass.
+
+```
+Running some tests...
+
+✔ Jane's employees = 8
+✔ Jessica's employees = 3
+✔ Jen's employees = 0
+✔ Bob's employees = 0
+✔ Al's employees = 0
+✔ Janet's employees = 3
+✔ Nick's employees = 0
+✔ Nick's employees = 1
+✔ Henri's employees = 0
+
+All tests passed! Great job! :)
+```
